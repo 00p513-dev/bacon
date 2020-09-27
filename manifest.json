@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "date": "2020-09-27",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "https://00p513-dev.github.io/bacon/multirom-bacon-1.zip",
+                    "version": "33b",
+                    "type": "multirom",
+                    "size": 5666324,
+                    "md5": "b2cd939939121af649b84f26d74841d8"
+                },
+                {
+                    "url": "https://00p513-dev.github.io/mr-twrp-bacon-1.img",
+                    "version": "mrom20160528-00",
+                    "type": "recovery",
+                    "size": 14532608,
+                    "md5": "3d34767bc49824a9738d4efc54a558f9"
+                },
+                {
+                    "url": "https://00p513-dev.github.io/kernel-bacon-1.zip",
+                    "version": "Bauner COS12+kexec v4",
+                    "type": "kernel",
+                    "size": 6504878,
+                    "md5": "06006aa2ae57c145d5067edbc219a257"
+                },
+                {
+                    "url": "https://00p513-dev.github.io/multirom_uninstaller.zip",
+                    "version": "",
+                    "type": "uninstaller",
+                    "size": 1642081,
+                    "md5": "d222504b3bb53969edfc45afc57fd275"
+                }
+            ],
+            "changelogs": [],
+            "name": "bacon"
+        }
+    ]
+}
